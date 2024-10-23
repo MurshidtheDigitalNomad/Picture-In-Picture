@@ -29,13 +29,18 @@ body{
     margin-bottom: 10px;
     padding: 6px;
     border: 2px dashed white;
-    background-color: rgba(0, 0, 0, 0.3)
+    background-color: rgba(0, 0, 0, 0.3);
+    text-align: center;
 }
 
 h1{
     color:rgba(233, 219, 219, 0.8);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+
+.start{
+    color: red;
 }
 
 button {
